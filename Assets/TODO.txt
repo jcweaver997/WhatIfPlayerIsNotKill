@@ -1,0 +1,71 @@
+immediate list
+
+
+
+-- Menu screen
+	//* picture borders
+	//* map picture resizes
+	* names and desc
+
+-- Two new maps
+	* Josh's choice
+	//* MLG xXx noscope 420 weed erryday iluminati map
+	* Evening/night map
+
+-- Different Weapons
+	//* Rocket launcher (bullet explode on impact)
+	//* Sniper (Penetrating, powerful bullet)
+	//* -- think of more
+	* Flamethrower
+	* Gun drops
+	* Sentry gun
+	
+	//* -- pickups? or buyable?
+
+// -- Powerups? <- should there be powerups?
+	* Invincibility
+	* Kill zombies on screen
+	* weed slows enemies
+	* fedora takes you into euphoria
+	* energy shield
+	* dmg doubler
+	* -- more if applicable
+
+-- Controls
+	//* Maybe find a better way to get Rect
+	//* Draw new controls
+	//* Fix bullet clipping (walls, player)
+
+-- Gameplay
+	//* Change to waves
+	* Implement boss monters(young venu, shrek)
+	* Implement new monsters
+	* Fix navigation?
+	* New gametypes
+
+-- Multiplayer
+	* Implement client/server
+	* Incorporate FFA and teams
+	* Make sure to add player damage reduction
+
+-- Ads
+	//* Implement ads after death
+	//* google ads?
+	
+-- Audio
+	//* background music
+	* bullet shots(rocket, sniper, regular)
+	* MLG cacaphony (Air horn, oooohhh baby a triple, etc)
+	* zombie kill noises
+	* selection noises (hover over/click sounds)
+	
+-- Options
+	//* Audio
+	//* -- need there be more?
+	
+-- Scoreboard
+	//*save scores for each map
+	//* no more score over time
+	//* points for fast times
+	
+/-/-Finish game-\-\

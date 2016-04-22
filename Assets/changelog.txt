@@ -1,0 +1,30 @@
+v1.4
+# Rocket Launcher
+	- more damage
+	- I broke it during version 1.2, it's now fixed
+# Fixed main menu not following volume options
+# Sniper Rifle
+	- shoots faster, .7s from 1s
+# Removed invincibility while in euphoria mode, now the fedora is only a cosmetic powerup
+# Added invicibility powerup
+# If you're wondering about the fedora just flying away randomly, that's a feature
+# Added jumping
+# first one to name all the powerups gets their name in the credits
+
+v1.3
+fixed jumpad not working
+
+v1.2
+# nerfed bomb
+	- explosion radius down to 4 units from 6 units
+	- time between throws set to 1.5s from 1s
+	
+# Fixed an issue with the ad not loading and causing people to be at the deathscreen forever
+
++ Added local highscores
+# Increased UI size
+# Bullets no longer go through walls
+# Fixed some bullet registry
+- You no longer get points over time
++ You now get points for completing rounds quickly
++ Added Powerups
